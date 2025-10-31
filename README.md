@@ -1,6 +1,6 @@
 # Git Workflow Demonstration
 
-A minimal project showcasing professional Git practices used in DevOps pipelines.
+Practical demonstration of Git branching, merging, and tagging workflows essential for DevOps version control and CI/CD release management.
 
 ## Overview
 This repository demonstrates how branching, merging, and semantic version tagging are applied to maintain clean, traceable version control — the same structure used in CI/CD environments.
@@ -21,6 +21,11 @@ This repository demonstrates how branching, merging, and semantic version taggin
 ## Why This Matters
 Version control discipline ensures predictable automation.  
 Most CI/CD pipelines depend on clean commit history and tagging for reliable deployments.
+
+## Technologies Used
+- Git (CLI)
+- GitHub remote repository
+- Ubuntu Linux environment
 
 ## Author
 **Saleh Sulieman** — Computer Engineering Student @ Ostim Teknik University  
